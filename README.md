@@ -4,14 +4,6 @@ Replace UIAlertView.
 
 import UIKit
 
-let kSuccessTitle = "Congratulations"
-let kErrorTitle = "Connection error"
-let kNoticeTitle = "Notice"
-let kWarningTitle = "Warning"
-let kInfoTitle = "Info"
-let kSubtitle = "You've just displayed this awesome Pop Up view"
-
-let kDefaultAnimationDuration = 2.0
 
 
 class ViewController: UIViewController {
