@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.name         = "LCAlertPop"
 s.version      = "0.0.5"
-s.summary      = "Replace UIAlertView with wift launuage"
+s.summary      = "replace UIAlertView with swift."
 s.homepage     = "https://github.com/iRemark/LCAlertPop.git"
 s.license      = "MIT"
 s.author       = { "iRemark" => "lc081200@163.com" }
